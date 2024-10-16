@@ -1,0 +1,6 @@
+a=apple
+b=ball
+c=cat
+d=dog
+e=elephant=egg
+f=frog
